@@ -10,9 +10,9 @@ class App extends MaterialApp {
           initialRoute: '/',
           routes: {
             '/': (context) => WelcomeScreen(),
-            'login': (context) => LoginScreen(),
-            'explore': (context) => ExploreScreen(),
-            'upload': (context) => UploadScreen()
+            '/login': (context) => LoginScreen(),
+            '/explore': (context) => ExploreScreen(),
+            '/upload': (context) => UploadScreen()
           },
           debugShowCheckedModeBanner: false,
           theme: themeData,

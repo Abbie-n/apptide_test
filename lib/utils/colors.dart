@@ -6,4 +6,5 @@ class AppColors {
   static const greyText = Color.fromRGBO(138, 135, 125, 1);
   static const black = Color(0XFF26200B);
   static const darkGrey = Color(0XFF635F50);
+  static const white = Color(0XFFFFFFFF);
 }
