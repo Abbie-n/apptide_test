@@ -15,4 +15,5 @@
     <style name="NormalTheme" parent="@android:style/Theme.Light.NoTitleBar">
         <item name="android:windowBackground">?android:colorBackground</item>
     </style>
+    <color name="background">#E5E5E5</color>
 </resources>

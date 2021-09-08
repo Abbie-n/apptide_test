@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.apptide_test">
    <application
-        android:label="apptide_test"
+        android:label="Cream"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
